@@ -1,0 +1,67 @@
+<html lang="en">
+<meta charset="UTF-8">
+<title>Flaraa</title>
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<style>
+body {font-family:"Times New Roman", serif}
+h1,h2,h3,h4,h5,h6 {font-family:serif; letter-spacing:5px}
+</style>
+<body>
+
+<!-- Navigation (Sits on top) -->
+<div class="w3-top w3-bar w3-white w3-padding w3-card w3-wide">
+<a href="#home" class="w3-bar-item w3-button" style="font-size: 30px; color: purple; font-weight: bold;">Flaraa</a>
+
+</div>
+
+<!-- Start Content -->
+<div id="home" class="w3-content">
+
+<!-- Image in Display Container -->
+<div class="w3-padding-top-48">
+<div class="w3-display-container">
+<br><br>
+
+</div>
+</div>
+<h1 class="w3-center" style="font-weight: bold;">Child Safety and Abuse Prevention Policy</h1><br>
+
+<p>Effective Date: July 13, 2025.</p>
+<p>Last Updated: October 02, 2025.</p>
+<p>At Flara, we are committed to providing a safe and respectful environment for all users. We strictly prohibit any content or behavior that facilitates or promotes child sexual abuse and exploitation (CSAE). This includes, but is not limited to:</p>
+
+<ul>
+<li><p>The creation, sharing, or solicitation of child sexual abuse material (CSAM)</p></li>
+<li><p>Grooming behaviors or attempts to establish inappropriate relationships with minors</p></li>
+<li><p>Any form of trafficking or exploitation of children</p></li>
+<li><p>Threats or coercion involving minors</p></li>
+</ul>
+
+<!-- About -->
+<div>
+<span style="font-size: 20px; font-weight: bold;">Reporting and Enforcement</span>
+<p>We encourage users to report any content or behavior that violates this policy. Reports can be submitted through our in-app reporting feature or by contacting our support team at shwethha10@gmail.com.</p>
+<p>Upon receiving a report, we will promptly investigate and take appropriate action, which may include removing the offending content, suspending or banning the responsible user, and reporting the incident to the relevant authorities, including the National Center for Missing and Exploited Children (NCMEC) or equivalent organizations in your jurisdiction.</p>
+
+<span style="font-size: 20px; font-weight: bold;">Compliance with Laws</span>
+<p>Flara complies with all applicable child safety laws and regulations, including the U.S. Children's Online Privacy Protection Act (COPPA), the EU General Data Protection Regulation (GDPR), and other relevant legislation. We are committed to cooperating with law enforcement and child protection agencies to combat CSAE.</p>
+
+<span style="font-size: 20px; font-weight: bold;">Contact Information</span>
+<p>For concerns related to child safety or to report CSAE content, please contact our Child Safety Representative at shwethha10@gmail.com
+.</p>
+</div>
+
+<div>
+<span style="font-size: 20px; font-weight: bold;">Contact Us</span>
+<p>If you have any questions about this Child Safety and Abuse Prevention Policy or wish to exercise your rights, please contact us at:</p>
+<p>Email: shwethha10@gmail.com</p>
+<p>Address: Palo Alto, CA, 94304</p>
+</div><br><br><br><br>
+ 
+
+<!-- End Content -->
+</div>
+
+</body>
+</html>
